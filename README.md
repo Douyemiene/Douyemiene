@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Victor
+
+I'm a backend engineer who currently works with JavaScript and Typescript
 
 
 [![Douye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Douyemiene&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
