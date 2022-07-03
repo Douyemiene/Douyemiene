@@ -2,10 +2,10 @@
 
 I'm a backend engineer who currently works with JavaScript and Typescript
 
-- 🌱 I’m currently learning:
+- 🌱 I’m currently learning about:
 - Data Structures and Algorithms
-- How to write clean code
-- Microservice Architecture
+- Writing cleaner code
+- Microservices
 
 
 [![Douye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Douyemiene&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
