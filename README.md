@@ -4,7 +4,7 @@ I'm a backend engineer who currently works with JavaScript and Typescript
 
 - 🌱 I’m currently learning about:
 - Data Structures and Algorithms
-- Writing cleaner code
+- Clean code
 - Microservices
 
 
