@@ -1,6 +1,6 @@
 ### Hi there, I'm Victor
 
-I'm a backend engineer who currently works with JavaScript and Typescript
+I'm a backend engineer who currently works with JavaScript
 
 - 🌱 I’m currently learning about:
 - Data Structures and Algorithms
