@@ -4,7 +4,6 @@ I'm a backend engineer who currently works with JavaScript. You can contact me a
 
 - 🌱 I’m currently learning about:
 - Data Structures and Algorithms
-- Clean code
 - Microservices
 
 
