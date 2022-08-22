@@ -4,7 +4,7 @@ I'm a backend engineer who currently works with JavaScript(Nodejs). You can cont
 
 - 🌱 I’m currently learning about:
 - Data Structures and Algorithms
-- Microservices
+- Distributed systems
 - Python
 
 
