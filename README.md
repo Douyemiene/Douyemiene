@@ -1,6 +1,6 @@
 ### Hi there, I'm Victor
 
-I'm software engineer who currently works with JavaScript (Nodejs). You can contact me at viktormiene.vm@gmail.com
+I'm a software engineer who currently works with JavaScript (Nodejs). You can contact me at viktormiene.vm@gmail.com
 
 - 🌱 I’m currently learning about:
 - Data Structures and Algorithms
