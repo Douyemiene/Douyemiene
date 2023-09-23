@@ -1,10 +1,16 @@
 ### Hi there, I'm Victor
 
-I'm a software engineer who currently works with JavaScript (Nodejs). You can contact me at viktormiene.vm@gmail.com
+I'm a skilled software engineer with expertise in Java (Spring) and JavaScript (Node.js). You can contact me at viktormiene.vm@gmail.com.
 
-- 🌱 I’m currently learning about:
-- Data Structures and Algorithms
-- System design
+Skills:
+
+Java Spring
+JavaScript (Node.js)
+I'm currently focused on expanding my knowledge in the following areas:
+
+- Exploring Data Structures and Algorithms
+- Deepening my understanding of System Design
+You can also find my work on GitHub.
 
 
 <!-- 
