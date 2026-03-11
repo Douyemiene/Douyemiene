@@ -11,7 +11,7 @@ MS student in Engineering AI at **Carnegie Mellon University**, researching neur
 
 ## 🔬 Research
 
-- **SurfGI-GS** *(Eurographics 2026)* — Surface-aligned 2D Gaussian surfels for geometrically consistent deferred shading and path-traced global illumination.
+- **SurfGI-GS** — Surface-aligned 2D Gaussian surfels for geometrically consistent deferred shading and path-traced global illumination.
 - **Transparent Object Perception** *(CMU, Prof. Conrad Tucker)* — NeRF-based depth recovery for robotic grasping where standard RGB-D sensors fail on glass and liquids.
 
 ## 🛠️ Stack
