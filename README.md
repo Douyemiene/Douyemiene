@@ -1,33 +1,25 @@
-### Hi there, I'm Victor
+# GitHub Profile Bio
+> MS AI @ CMU · Inverse rendering, 3D Gaussian Splatting & neural scene reconstruction · ex-SWE @Youverify
 
-I'm a skilled software engineer with expertise in Java (Spring) and JavaScript (Node.js). You can contact me at viktormiene.vm@gmail.com.
+---
 
-Skills:
+# README.md
 
-Java Spring
-JavaScript (Node.js)
-I'm currently focused on expanding my knowledge in the following areas:
+# Hi, I'm Victor 👋
 
-- Exploring Data Structures and Algorithms
-- Deepening my understanding of System Design
-You can also find my work on GitHub.
+MS student in Engineering AI at **Carnegie Mellon University**, researching neural rendering and physically accurate scene reconstruction — recovering geometry, materials, and lighting from images for relighting and 3D content creation.
 
+## 🔬 Research
 
-<!-- 
-[![Douye's GitHub stats](https://github-readme-stats.vercel.app/api?username=Douyemiene&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- -->
+- **SurfGI-GS** *(Eurographics 2026)* — Surface-aligned 2D Gaussian surfels for geometrically consistent deferred shading and path-traced global illumination.
+- **Transparent Object Perception** *(CMU, Prof. Conrad Tucker)* — NeRF-based depth recovery for robotic grasping where standard RGB-D sensors fail on glass and liquids.
 
-<!--
-**Douyemiene/Douyemiene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Stack
 
-Here are some ideas to get you started:
+**AI/ML:** PyTorch · PyTorch3D · TensorFlow · scikit-learn · NumPy  
+**Other:** Python · C++ · FastAPI · SQL
 
-- 🔭 I’m currently working on ...
+## 📬 Contact
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 vom@andrew.cmu.edu  
+- 💼 [linkedin.com/in/victormiene](https://linkedin.com/in/victormiene)
