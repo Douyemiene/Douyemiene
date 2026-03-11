@@ -1,10 +1,3 @@
-# GitHub Profile Bio
-> MS AI @ CMU · Inverse rendering, 3D Gaussian Splatting & neural scene reconstruction · ex-SWE @Youverify
-
----
-
-# README.md
-
 # Hi, I'm Victor 👋
 
 MS student in Engineering AI at **Carnegie Mellon University**, researching neural rendering and physically accurate scene reconstruction — recovering geometry, materials, and lighting from images for relighting and 3D content creation.
